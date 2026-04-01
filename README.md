@@ -189,6 +189,4 @@ llm_p/
 │       ├── deps.py
 │       ├── routes_auth.py
 │       └── routes_chat.py
-└── app.db#   l l m - p 
- 
- 
+└── app.db#
